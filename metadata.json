@@ -1,0 +1,5 @@
+{
+  "name": "Jewelry Design Blueprint Visualizer",
+  "description": "An AI-powered tool for jewelry designers to upload 2D technical drawings, extract parameters using Gemini, and visualize/adjust designs dynamically.",
+  "requestFramePermissions": []
+}
